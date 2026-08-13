@@ -1,3 +1,4 @@
+https://doi.org/10.5281/zenodo.21911609
 # T-MAFA-Topological-Anyon-Braiding-in-Physics-Driven-Landau-Khalatnikov-Activation
 T-MAFA: Topological Anyon Braiding in Physics-Driven Landau-Khalatnikov Activation Layers for Fault-Tolerant Quantum In-Memory Computing
 # Topological MAFA (T-MAFA) Phase-Field Activation Layer
